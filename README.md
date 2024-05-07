@@ -24,5 +24,5 @@ Contributions to the DVPI project are welcome. Please read `CONTRIBUTING.md` for
 
 ## Acknowledgments
 - Thanks to all contributors who have invested their time in improving the DVPI metric.
-- Special thanks to [institution/research group name] for supporting this project.
+- Special thanks to https://thehccg.com/ for supporting this project.
 
