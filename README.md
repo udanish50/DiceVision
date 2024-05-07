@@ -19,9 +19,6 @@ DVPI provides a reliable tool for:
 ## Future Work
 The introduction of DVPI and IBS not only improves the reliability of assessments for AI-generated images but also opens pathways for future enhancements in image generation technologies.
 
-## Contributions
-Contributions to the DVPI project are welcome. Please read `CONTRIBUTING.md` for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Acknowledgments
 - Thanks to all contributors who have invested their time in improving the DVPI metric.
 - Special thanks to https://thehccg.com/ for supporting this project.
