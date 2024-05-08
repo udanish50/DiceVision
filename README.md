@@ -21,5 +21,10 @@ The introduction of DVPI and IBS not only improves the reliability of assessment
 
 ## Acknowledgments
 - Thanks to all contributors who have invested their time in improving the DVPI metric.
-- Special thanks to https://thehccg.com/ for supporting this project.
+- Special thanks to [HCCG](https://thehccg.com/) for supporting this project.
 
+## How to Use DVPI
+To apply DVPI in your projects, follow these steps:
+1. **Prepare Your Data**: Ensure your images are formatted correctly and stored in an accessible manner.
+2. **Integrate DVPI Metrics**: Incorporate the DVPI code into your image processing pipeline. Detailed instructions and code snippets are provided in the `usage` section.
+3. **Run Evaluations**: Execute your tests to generate DVPI scores and compare them with traditional metrics if needed.
